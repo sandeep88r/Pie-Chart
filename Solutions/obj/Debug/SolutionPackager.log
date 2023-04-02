@@ -1,0 +1,18 @@
+2023-03-31 17:49:16.666 - Info	
+Packing D:\PCF\Pie\Solutions\obj\Debug\Metadata to bin\Debug\Solutions.zip
+
+2023-03-31 17:49:16.770 - Info	Processing Component: Entities
+2023-03-31 17:49:16.780 - Info	Processing Component: Roles
+2023-03-31 17:49:16.828 - Info	Processing Component: Workflows
+2023-03-31 17:49:16.829 - Info	Processing Component: FieldSecurityProfiles
+2023-03-31 17:49:16.830 - Info	Processing Component: Templates
+2023-03-31 17:49:16.832 - Info	Processing Component: EntityMaps
+2023-03-31 17:49:16.833 - Info	Processing Component: EntityRelationships
+2023-03-31 17:49:16.837 - Info	Processing Component: OrganizationSettings
+2023-03-31 17:49:16.838 - Info	Processing Component: optionsets
+2023-03-31 17:49:16.839 - Info	Processing Component: CustomControls
+2023-03-31 17:49:16.851 - Info	Processing Component: SolutionPluginAssemblies
+2023-03-31 17:49:16.853 - Info	Processing Component: EntityDataProviders
+2023-03-31 17:49:16.944 - Info	
+Unmanaged Pack complete.
+

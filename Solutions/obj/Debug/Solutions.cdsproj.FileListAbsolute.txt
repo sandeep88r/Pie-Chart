@@ -1,0 +1,2 @@
+D:\PCF\Pie\Solutions\obj\Debug\Solutions.cdsproj.AssemblyReference.cache
+D:\PCF\Pie\Solutions\obj\Debug\Solutions.cdsproj.CoreCompileInputs.cache
